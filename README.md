@@ -1,6 +1,7 @@
-# 🛠️ Virtualization & Security Portfolio
+# Portfolio
 
-![Banner](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Virtualization%20%26%20Security&fontSize=50)
+> Awesome Octocats: https://octodex.github.com/
+
 
 ### 👋 Hello, I'm Mitul!
 I am a **BCA student** passionate about **Cyber Security** and **Virtualization**. I enjoy building secure network environments and exploring how different operating systems interact through hypervisors.

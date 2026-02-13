@@ -32,5 +32,5 @@ I am a **BCA student** passionate about **Cyber Security** and **Virtualization*
 ---
 
 ### 📬 How to reach me:
-- **LinkedIn:** [Your Profile Link Here]
-- **Discord:** [Your Username]
+- **LinkedIn:** [Comming...]
+- **Discord:** [Comming...]

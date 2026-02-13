@@ -8,21 +8,14 @@
 I am a **BCA student** passionate about **Cyber Security** and **Virtualization**. I enjoy building secure network environments and exploring how different operating systems interact through hypervisors.
 
 ---
-
-### 📊 My GitHub Stats
+### 📊 Any Help
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=mitulvegad&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitulvegad&layout=compact&theme=tokyonight&hide_border=true" width="300" />
-      </td>
-    </tr>
-  </table>
-</div>
 
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
+<br><br>
+
+
+</div>
 ---
 
 ### 🛡️ Skills & Technologies

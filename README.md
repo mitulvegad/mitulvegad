@@ -3,8 +3,8 @@
 <div align="center" ><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
 <br><br></div>
 
-# 🛡️ Virtualization & Security Architect
-# 🛡️ Cyber Security & Virtualization Researcher
+# 🛡️ Virtualization & Security Architect...
+# 🛡️ Cyber Security & Virtualization Researcher...
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Virtualization+%26+Security;Cyber+Security+Researcher;BCA+Student" alt="Typing SVG" />

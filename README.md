@@ -8,10 +8,10 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Virtualization+%26+Security;Cyber+Security+Researcher;BCA+Student" alt="Typing SVG" />
-</div><hr>
+</div>
 
-<b>---> 👋 Hello, I'm Mitul!
-Main ek **BCA student** hoon jo **Cyber Security** aur **Digital Defense** par focus kar raha hoon. Mera kaam virtualization (VMware/VirtualBox) aur NIST frameworks par based hai.</b>
+<div color="grey"><i><b>---> 👋 Hello, I'm Mitul!
+Main ek **BCA student** hoon jo **Cyber Security** aur **Digital Defense** par focus kar raha hoon. Mera kaam virtualization (VMware/VirtualBox) aur NIST frameworks par based hai.</b></i></div>
 
 ---
 

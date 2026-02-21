@@ -15,7 +15,7 @@ Main ek BCA student hoon jo Cyber Security aur Digital Defense par focus kar rah
 
 ---
 
- 📊 GitHub Stats (Stable Links)
+ 📊 GitHub Stats (ONLINE NOW)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mitulvegad&show_icons=true&theme=dark&hide_border=true" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitulvegad&layout=compact&theme=dark&hide_border=true" width="300" />

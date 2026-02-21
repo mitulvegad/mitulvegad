@@ -34,7 +34,7 @@ Main ek BCA student hoon jo Cyber Security aur Digital Defense par focus kar rah
 ---
 
 -->🔬 Core Knowledge Base
-* **Security Frameworks:** NIST CSF 2.0 (Identify, Protect, Detect, Respond, Recover).
+Security Frameworks:** NIST CSF 2.0 (Identify, Protect, Detect, Respond, Recover).
 * **Attacks:** SQL Injection, Access Control, OWASP Top 10.
 * **Concepts:** Vulnerability vs Exploit vs Risk.
 

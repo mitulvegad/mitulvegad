@@ -4,7 +4,8 @@
 <br><br></div>
 
 # 🛡️ Virtualization & Security Architect...
-# 🛡️ Cyber Security & Virtualization Researcher...
+# 🛡️ Cyber Security & Virtualization Researcher.......... 
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Virtualization+%26+Security;Cyber+Security+Researcher;BCA+Student" alt="Typing SVG" />

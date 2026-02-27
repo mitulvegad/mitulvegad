@@ -32,9 +32,9 @@ Main ek BCA student hoon jo Cyber Security aur Digital Defense par focus kar rah
   <img src="https://img.shields.io/badge/Language-Python-yellow?style=flat-square&logo=python&logoColor=white" />
 </p>
 
----
 
--->🔬 Core Knowledge Base
+
+--> 🔬 Core Knowledge Base
 Security Frameworks:** NIST CSF 2.0 (Identify, Protect, Detect, Respond, Recover).
 * **Attacks:** SQL Injection, Access Control, OWASP Top 10.
 * **Concepts:** Vulnerability vs Exploit vs Risk.
@@ -54,10 +54,7 @@ Security Frameworks:** NIST CSF 2.0 (Identify, Protect, Detect, Respond, Recover
 
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
 <br><br>
-
-
 </div>
----
 
 ### 🛡️ Skills & Technologies
 - **Virtualization:** VMware, VirtualBox, Proxmox

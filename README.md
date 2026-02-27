@@ -25,7 +25,7 @@ Main ek BCA student hoon jo Cyber Security aur Digital Defense par focus kar rah
 ---
 
 --> 
-   🛡️ Skills & Tools
+ <b> 🛡️ Skills & Tools</b>
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Kali%20Linux-blue?style=flat-square&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Virtual-VMware-607078?style=flat-square&logo=vmware&logoColor=white" />

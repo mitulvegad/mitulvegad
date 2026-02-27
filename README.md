@@ -22,7 +22,6 @@ Main ek BCA student hoon jo Cyber Security aur Digital Defense par focus kar rah
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitulvegad&layout=compact&theme=dark&hide_border=true" width="300" />
 </div>
 
----
 
 --> 
  <b> 🛡️ Skills & Tools</b>
@@ -49,8 +48,8 @@ Security Frameworks:** NIST CSF 2.0 (Identify, Protect, Detect, Respond, Recover
   </a>
 </p>
 </div>
----
-### 📊 Any Help
+
+ 📊 Any Help
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">

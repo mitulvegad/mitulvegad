@@ -1,5 +1,32 @@
-# 💫 About Me:
-       👨‍💻 About Me<br><br>Hey there! I'm  Mitul Vegad 👋<br><br>🎓 I'm a BCA student passionate about technology, cybersecurity, and exploring the digital world.<br><br>🔐 I love learning about cybersecurity, ethical hacking, and digital defense. I'm always curious about how things work and how to make the digital world safer.<br><br>       🚀 My Interests<br>- 🔐 Cybersecurity & Digital Defense<br>- 🛡️ Ethical Hacking & Penetration Testing<br>- 🌐 Networking & Network Security<br>- 💻 Programming & Technology<br>- 🖥️ Virtualization & Operating Systems<br>- ⚡ Open Source & Continuous Learning<br><br>           🎯 My Goals<br>- 📚 Continuously learn new technologies and security concepts.<br>- 🔍 Develop practical cybersecurity skills.<br>- 🛠️ Build useful projects and explore new tools.<br>- 🌍 Contribute to the tech and cybersecurity community.<br><br>          💡 My Motto<br>"Learn Every Day, Build Every Day, Stay Curious!" 🚀<br><br>          🤝 Let's Connect!<br>I'm always excited to connect with fellow developers, cybersecurity enthusiasts, and tech learners!<br><br>⭐ Thanks for visiting my profile!
+## 👨‍💻 About Me
+
+Hey there! I'm **Mitul Vegad** 👋
+
+🎓 I'm a BCA student passionate about technology, cybersecurity, and exploring the digital world.
+
+🔐 I love learning about cybersecurity, ethical hacking, and digital defense. I'm always curious about how things work and how to make the digital world safer.
+
+### 🚀 My Interests
+- 🔐 Cybersecurity & Digital Defense
+- 🛡️ Ethical Hacking & Penetration Testing
+- 🌐 Networking & Network Security
+- 💻 Programming & Technology
+- 🖥️ Virtualization & Operating Systems
+- ⚡ Open Source & Continuous Learning
+
+### 🎯 My Goals
+- 📚 Continuously learn new technologies and security concepts.
+- 🔍 Develop practical cybersecurity skills.
+- 🛠️ Build useful projects and explore new tools.
+- 🌍 Contribute to the tech and cybersecurity community.
+
+### 💡 My Motto
+"Learn Every Day, Build Every Day, Stay Curious!" 🚀
+
+### 🤝 Let's Connect!
+I'm always excited to connect with fellow developers, cybersecurity enthusiasts, and tech learners!
+
+⭐ Thanks for visiting my profile!
 
 
 ## 🌐 Socials:
